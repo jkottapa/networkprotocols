@@ -1,0 +1,5 @@
+I have chosen to do this assignment in C/C++ and the required standard libraries for
+language. All of the development and testing were exclusively done on linux024.student.cs
+environment. All of the required parts' implementation has been completed accordingly. 
+The Makefile can do individual program compiling as well as accomodates "all" functionality.
+
